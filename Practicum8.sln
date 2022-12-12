@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum8", "Practicum8\Practicum8.csproj", "{D62842D0-7319-4D15-BAA6-15FD33754E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum8_Task1_WF", "Practicum8_Task1_WF\Practicum8_Task1_WF.csproj", "{69105B9B-508A-45D1-A9F3-0406CF4864B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62842D0-7319-4D15-BAA6-15FD33754E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62842D0-7319-4D15-BAA6-15FD33754E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62842D0-7319-4D15-BAA6-15FD33754E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62842D0-7319-4D15-BAA6-15FD33754E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69105B9B-508A-45D1-A9F3-0406CF4864B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69105B9B-508A-45D1-A9F3-0406CF4864B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69105B9B-508A-45D1-A9F3-0406CF4864B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69105B9B-508A-45D1-A9F3-0406CF4864B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2732E2-067C-4EA7-B427-841D8EF95003}
+	EndGlobalSection
+EndGlobal
