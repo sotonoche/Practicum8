@@ -64,6 +64,7 @@
             // 
             this.textBoxOut.Location = new System.Drawing.Point(15, 80);
             this.textBoxOut.Name = "textBoxOut";
+            this.textBoxOut.ReadOnly = true;
             this.textBoxOut.Size = new System.Drawing.Size(365, 20);
             this.textBoxOut.TabIndex = 3;
             // 
